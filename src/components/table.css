@@ -1,0 +1,11 @@
+.container {
+    width: 80%;
+    margin-top: 50px;
+}
+
+.table {
+    background-color: #0e0b0b;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
